@@ -1,2 +1,2 @@
 # Emergency-Data-Analysis-Python
-Jupyter Notebook, Report on a basic high-level data analysis of raw data from the emergency department 
+Jupyter Notebook and summary report on a basic high-level data analysis of raw data from the emergency department of a hospital.
